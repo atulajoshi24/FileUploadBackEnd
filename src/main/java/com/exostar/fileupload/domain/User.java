@@ -46,4 +46,8 @@ public class User implements Serializable {
 	private String email;
 	
 	
+	public static User newInstance(long id,String firstName,String lastName,String email) {
+	        return new User(id,firstName,lastName,email);
+	}
+
 }

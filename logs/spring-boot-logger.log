@@ -126,3 +126,365 @@
 2021-02-01 12:14:26,564 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-7] Total Number of CSV Records = 1
 2021-02-01 12:14:26,566 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-7] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[44, A, Chopra, sachin@yahoo.com]]
 2021-02-01 12:14:26,567 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-7] Total Number Of Users getting saved = 1
+2021-02-01 14:44:57,598 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-9] Entering CsvController.uploadFile
+2021-02-01 14:44:58,373 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-9] Entering CsvServiceImpl.saveFile
+2021-02-01 14:44:58,409 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 14:44:58,410 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Entering CsvHelper.csvToUsers
+2021-02-01 14:44:58,503 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Total Number of CSV Records = 1
+2021-02-01 14:44:58,697 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[44, A, Chopra, sachin@yahoo.com]]
+2021-02-01 14:44:58,841 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-9] Total Number Of Users getting saved = 1
+2021-02-01 14:45:34,879 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-1] Entering CsvController.uploadFile
+2021-02-01 14:45:34,881 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-1] Entering CsvServiceImpl.saveFile
+2021-02-01 14:45:34,882 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 14:45:34,883 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Entering CsvHelper.csvToUsers
+2021-02-01 14:45:34,885 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Total Number of CSV Records = 1
+2021-02-01 14:45:34,886 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[44, A, Chopra, sachin@yahoo.com]]
+2021-02-01 14:45:34,887 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-1] Total Number Of Users getting saved = 1
+2021-02-01 14:45:50,793 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-3] Entering CsvController.uploadFile
+2021-02-01 14:45:50,794 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-3] Entering CsvServiceImpl.saveFile
+2021-02-01 14:45:50,794 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-3] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 14:45:50,795 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-3] Entering CsvHelper.csvToUsers
+2021-02-01 14:45:50,796 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-3] Total Number of CSV Records = 1
+2021-02-01 14:45:50,796 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-3] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, , , sachinyahoo.com]]
+2021-02-01 14:45:50,796 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-3] Total Number Of Users getting saved = 1
+2021-02-01 14:45:51,482 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-3] entering TransactionSystemException Exception Handler
+2021-02-01 14:45:51,564 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-3] Handling ConstraintViolationException 
+2021-02-01 14:46:14,008 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-4] Entering CsvController.uploadFile
+2021-02-01 14:46:14,009 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-4] Entering CsvServiceImpl.saveFile
+2021-02-01 14:46:14,010 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 14:46:14,011 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Entering CsvHelper.csvToUsers
+2021-02-01 14:46:14,012 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Total Number of CSV Records = 1
+2021-02-01 14:46:14,013 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[44, A, Chopra, sachin@yahoo.com]]
+2021-02-01 14:46:14,014 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-4] Total Number Of Users getting saved = 1
+2021-02-01 14:48:07,900 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-6] Entering CsvController.uploadFile
+2021-02-01 14:48:07,901 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-6] Entering CsvServiceImpl.saveFile
+2021-02-01 14:48:07,902 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 14:48:07,903 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] Entering CsvHelper.csvToUsers
+2021-02-01 14:48:07,905 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] Total Number of CSV Records = 1
+2021-02-01 14:48:07,906 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[44, A, Chopra, sachin@yahoo.com]]
+2021-02-01 14:48:07,907 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-6] Total Number Of Users getting saved = 1
+2021-02-01 14:48:13,851 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-7] Entering CsvController.uploadFile
+2021-02-01 14:48:13,853 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-7] Entering CsvServiceImpl.saveFile
+2021-02-01 14:48:13,854 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-7] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 14:48:13,856 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-7] Entering CsvHelper.csvToUsers
+2021-02-01 14:48:13,858 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-7] Total Number of CSV Records = 1
+2021-02-01 14:48:13,859 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-7] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[44, A, Chopra, sachin@yahoo.com]]
+2021-02-01 14:48:13,861 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-7] Total Number Of Users getting saved = 1
+2021-02-01 14:48:21,569 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-9] Entering CsvController.uploadFile
+2021-02-01 14:48:21,570 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-9] Entering CsvServiceImpl.saveFile
+2021-02-01 14:48:21,571 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 14:48:21,572 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Entering CsvHelper.csvToUsers
+2021-02-01 14:48:21,574 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Total Number of CSV Records = 1
+2021-02-01 14:48:21,575 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, , , sachinyahoo.com]]
+2021-02-01 14:48:21,577 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-9] Total Number Of Users getting saved = 1
+2021-02-01 14:48:21,584 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-9] entering TransactionSystemException Exception Handler
+2021-02-01 14:48:21,585 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-9] Handling ConstraintViolationException 
+2021-02-01 14:50:16,160 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-10] Entering CsvController.uploadFile
+2021-02-01 14:50:16,162 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-10] Entering CsvServiceImpl.saveFile
+2021-02-01 14:50:16,162 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-10] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 14:50:16,163 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-10] Entering CsvHelper.csvToUsers
+2021-02-01 14:50:16,165 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-10] Total Number of CSV Records = 1
+2021-02-01 14:50:16,166 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-10] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[44, A, Chopra, sachin@yahoo.com]]
+2021-02-01 14:50:16,168 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-10] Total Number Of Users getting saved = 1
+2021-02-01 14:50:23,082 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-2] Entering CsvController.uploadFile
+2021-02-01 14:50:23,084 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-2] Entering CsvServiceImpl.saveFile
+2021-02-01 14:50:23,085 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-2] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 14:50:23,087 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-2] Entering CsvHelper.csvToUsers
+2021-02-01 14:50:23,089 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-2] Total Number of CSV Records = 1
+2021-02-01 14:50:23,090 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-2] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[44, A, Chopra, sachin@yahoo.com]]
+2021-02-01 14:50:23,092 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-2] Total Number Of Users getting saved = 1
+2021-02-01 15:00:14,406 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-4] Entering CsvController.uploadFile
+2021-02-01 15:00:14,408 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-4] Entering CsvServiceImpl.saveFile
+2021-02-01 15:00:14,411 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:00:14,412 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Entering CsvHelper.csvToUsers
+2021-02-01 15:00:14,413 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Total Number of CSV Records = 1
+2021-02-01 15:00:14,415 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[44, A, Chopra, sachin@yahoo.com]]
+2021-02-01 15:00:14,416 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-4] Total Number Of Users getting saved = 1
+2021-02-01 15:00:20,572 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-6] Entering CsvController.uploadFile
+2021-02-01 15:00:20,573 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-6] Entering CsvServiceImpl.saveFile
+2021-02-01 15:00:20,622 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:00:20,624 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] Entering CsvHelper.csvToUsers
+2021-02-01 15:00:20,625 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] Total Number of CSV Records = 1
+2021-02-01 15:00:20,625 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[44, A, Chopra, sachin@yahoo.com]]
+2021-02-01 15:00:20,626 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-6] Total Number Of Users getting saved = 1
+2021-02-01 15:35:48,968 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-9] Entering CsvController.uploadFile
+2021-02-01 15:35:48,984 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-9] Entering CsvServiceImpl.saveFile
+2021-02-01 15:35:48,985 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:35:48,986 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Entering CsvHelper.csvToUsers
+2021-02-01 15:35:48,987 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Total Number of CSV Records = 1
+2021-02-01 15:35:48,988 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[50, Vidhu, Khar, vidhu@yahoo.com]]
+2021-02-01 15:35:48,990 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-9] Total Number Of Users getting saved = 1
+2021-02-01 15:36:02,288 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-4] Entering CsvController.uploadFile
+2021-02-01 15:36:02,290 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-4] Entering CsvServiceImpl.saveFile
+2021-02-01 15:36:02,291 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:36:02,292 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Entering CsvHelper.csvToUsers
+2021-02-01 15:36:02,294 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Total Number of CSV Records = 1
+2021-02-01 15:36:02,295 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[50, Vidhu, Khar, vidhu@yahoo.com]]
+2021-02-01 15:36:02,296 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-4] Total Number Of Users getting saved = 1
+2021-02-01 15:36:22,134 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-5] Entering CsvController.uploadFile
+2021-02-01 15:36:22,137 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-5] Entering CsvServiceImpl.saveFile
+2021-02-01 15:36:22,139 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-5] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:36:22,141 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-5] Entering CsvHelper.csvToUsers
+2021-02-01 15:36:22,143 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-5] Total Number of CSV Records = 1
+2021-02-01 15:36:22,143 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-5] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[50, a, Khar, vidhu@yahoo.com]]
+2021-02-01 15:36:22,145 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-5] Total Number Of Users getting saved = 1
+2021-02-01 15:36:38,416 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-1] Entering CsvController.uploadFile
+2021-02-01 15:36:38,418 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-1] Entering CsvServiceImpl.saveFile
+2021-02-01 15:36:38,418 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:36:38,420 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Entering CsvHelper.csvToUsers
+2021-02-01 15:36:38,421 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Total Number of CSV Records = 1
+2021-02-01 15:36:38,422 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[51, Phever, w, fever@yahoo.com]]
+2021-02-01 15:36:38,423 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-1] Total Number Of Users getting saved = 1
+2021-02-01 15:37:03,595 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-7] Entering CsvController.uploadFile
+2021-02-01 15:37:03,595 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-7] Entering CsvServiceImpl.saveFile
+2021-02-01 15:37:03,596 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-7] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:37:03,596 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-7] Entering CsvHelper.csvToUsers
+2021-02-01 15:37:03,596 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-7] Total Number of CSV Records = 1
+2021-02-01 15:37:03,597 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-7] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, , , sachinyahoo.com]]
+2021-02-01 15:37:03,733 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-7] Total Number Of Users getting saved = 1
+2021-02-01 15:37:05,141 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-7] entering TransactionSystemException Exception Handler
+2021-02-01 15:37:05,217 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-7] Handling ConstraintViolationException 
+2021-02-01 15:39:41,847 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-9] Entering CsvController.uploadFile
+2021-02-01 15:39:41,848 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-9] Entering CsvServiceImpl.saveFile
+2021-02-01 15:39:41,849 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:39:41,850 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Entering CsvHelper.csvToUsers
+2021-02-01 15:39:41,852 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Total Number of CSV Records = 1
+2021-02-01 15:39:41,852 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-9] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, , , sachinyahoo.com]]
+2021-02-01 15:39:41,853 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-9] Total Number Of Users getting saved = 1
+2021-02-01 15:39:41,860 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-9] entering TransactionSystemException Exception Handler
+2021-02-01 15:39:41,861 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-9] Handling ConstraintViolationException 
+2021-02-01 15:40:16,851 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-8] Entering CsvController.uploadFile
+2021-02-01 15:40:16,853 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-8] Entering CsvServiceImpl.saveFile
+2021-02-01 15:40:16,854 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-8] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:40:16,856 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-8] Entering CsvHelper.csvToUsers
+2021-02-01 15:40:16,857 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-8] Total Number of CSV Records = 1
+2021-02-01 15:40:16,858 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-8] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, , , sachinyahoo.com]]
+2021-02-01 15:40:16,860 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-8] Total Number Of Users getting saved = 1
+2021-02-01 15:40:16,867 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-8] entering TransactionSystemException Exception Handler
+2021-02-01 15:40:16,896 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-8] Handling ConstraintViolationException 
+2021-02-01 15:42:29,006 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-1] Entering CsvController.uploadFile
+2021-02-01 15:42:29,008 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-1] Entering CsvServiceImpl.saveFile
+2021-02-01 15:42:29,008 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:42:29,009 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Entering CsvHelper.csvToUsers
+2021-02-01 15:42:29,011 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Total Number of CSV Records = 1
+2021-02-01 15:42:29,012 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, , , sachinyahoo.com]]
+2021-02-01 15:42:29,013 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-1] Total Number Of Users getting saved = 1
+2021-02-01 15:42:29,020 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-1] entering TransactionSystemException Exception Handler
+2021-02-01 15:42:29,021 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-1] Handling ConstraintViolationException 
+2021-02-01 15:43:16,261 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-10] Entering CsvController.uploadFile
+2021-02-01 15:43:16,262 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-10] Entering CsvServiceImpl.saveFile
+2021-02-01 15:43:16,264 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-10] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:43:16,266 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-10] Entering CsvHelper.csvToUsers
+2021-02-01 15:43:16,268 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-10] Total Number of CSV Records = 1
+2021-02-01 15:43:16,269 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-10] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, , , sachinyahoo.com]]
+2021-02-01 15:43:16,270 INFO com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-10] Total Number Of Users getting saved = 1
+2021-02-01 15:43:16,298 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-10] entering TransactionSystemException Exception Handler
+2021-02-01 15:43:16,298 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-10] Handling ConstraintViolationException 
+2021-02-01 15:45:03,612 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-6] Entering CsvController.uploadFile
+2021-02-01 15:45:03,613 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-6] Entering CsvServiceImpl.saveFile
+2021-02-01 15:45:03,614 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:45:03,616 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] Entering CsvHelper.csvToUsers
+2021-02-01 15:45:03,617 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] Total Number of CSV Records = 1
+2021-02-01 15:45:03,618 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-6] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, sachinyahoo.com]]
+2021-02-01 15:45:03,739 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-6] entering Global Exception Handler 
+2021-02-01 15:50:42,066 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-5] Entering CsvController.uploadFile
+2021-02-01 15:50:42,067 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-5] Entering CsvServiceImpl.saveFile
+2021-02-01 15:50:42,068 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-5] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:50:42,069 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-5] Entering CsvHelper.csvToUsers
+2021-02-01 15:50:42,070 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-5] Total Number of CSV Records = 1
+2021-02-01 15:50:42,071 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-5] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, sachinyahoo.com]]
+2021-02-01 15:50:42,072 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-5] entering Global Exception Handler 
+2021-02-01 15:50:53,968 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(3)-127.0.0.1] Application shutdown requested.
+2021-02-01 15:50:53,968 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(4)-127.0.0.1] Application shutdown requested.
+2021-02-01 15:50:56,792 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(5)-127.0.0.1] Application shutdown requested.
+2021-02-01 15:50:57,000 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [RMI TCP Connection(3)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-01 15:50:57,026 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [RMI TCP Connection(3)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-02-01 15:50:57,176 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [RMI TCP Connection(3)-127.0.0.1] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-02-01 15:50:57,744 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(3)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2021-02-01 15:50:57,808 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(3)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2021-02-01 15:51:32,475 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2021-02-01 15:51:32,498 INFO org.springframework.boot.StartupInfoLogger [main] Starting FileUploadApplication using Java 11.0.2 on Alyx-Laptop with PID 25356 (D:\ExostarFileUploadSpringBootApp\FileUpload\target\classes started by AJoshi in D:\ExostarFileUploadSpringBootApp\FileUpload)
+2021-02-01 15:51:32,565 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-01 15:51:32,569 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-02-01 15:51:33,849 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-02-01 15:51:33,980 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 119 ms. Found 1 JPA repository interfaces.
+2021-02-01 15:51:35,025 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-02-01 15:51:35,054 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-01 15:51:35,055 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-02-01 15:51:35,056 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-02-01 15:51:35,369 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-02-01 15:51:35,370 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2691 ms
+2021-02-01 15:51:35,502 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-02-01 15:51:36,025 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-02-01 15:51:36,057 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-02-01 15:51:37,139 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-02-01 15:51:37,271 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-02-01 15:51:38,098 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-02-01 15:51:38,645 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-02-01 15:51:40,581 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-02-01 15:51:40,602 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-02-01 15:51:42,934 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-02-01 15:51:43,615 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-01 15:51:44,813 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-01 15:51:45,002 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-02-01 15:51:45,087 INFO org.springframework.boot.StartupInfoLogger [main] Started FileUploadApplication in 13.294 seconds (JVM running for 17.068)
+2021-02-01 15:51:52,249 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-01 15:51:52,249 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-02-01 15:51:52,252 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2021-02-01 15:51:52,519 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-1] Entering CsvController.uploadFile
+2021-02-01 15:51:52,520 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-1] Entering CsvServiceImpl.saveFile
+2021-02-01 15:51:52,537 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:52:00,895 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Entering CsvHelper.csvToUsers
+2021-02-01 15:52:00,930 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Total Number of CSV Records = 1
+2021-02-01 15:52:00,940 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, sachinyahoo.com]]
+2021-02-01 15:52:00,943 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-1] entering Global Exception Handler 
+2021-02-01 15:53:29,287 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-2] Entering CsvController.uploadFile
+2021-02-01 15:53:29,288 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-2] Entering CsvServiceImpl.saveFile
+2021-02-01 15:53:29,290 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-2] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:53:46,384 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-2] Entering CsvHelper.csvToUsers
+2021-02-01 15:54:16,962 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-2] Total Number of CSV Records = 1
+2021-02-01 15:54:23,191 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-2] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, sachinyahoo.com]]
+2021-02-01 15:54:40,945 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-2] entering Global Exception Handler 
+2021-02-01 15:55:12,562 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-4] Entering CsvController.uploadFile
+2021-02-01 15:55:12,564 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-4] Entering CsvServiceImpl.saveFile
+2021-02-01 15:55:12,566 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:55:15,324 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Entering CsvHelper.csvToUsers
+2021-02-01 15:55:30,153 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Total Number of CSV Records = 1
+2021-02-01 15:55:59,621 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-4] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, sachinyahoo.com]]
+2021-02-01 15:56:10,153 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-4] entering Global Exception Handler 
+2021-02-01 15:57:33,342 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2021-02-01 15:57:33,371 INFO org.springframework.boot.StartupInfoLogger [main] Starting FileUploadApplication using Java 11.0.2 on Alyx-Laptop with PID 11840 (D:\ExostarFileUploadSpringBootApp\FileUpload\target\classes started by AJoshi in D:\ExostarFileUploadSpringBootApp\FileUpload)
+2021-02-01 15:57:33,374 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-01 15:57:33,376 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-02-01 15:57:34,646 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-02-01 15:57:34,772 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 113 ms. Found 1 JPA repository interfaces.
+2021-02-01 15:57:35,595 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-02-01 15:57:35,612 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-01 15:57:35,613 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-02-01 15:57:35,614 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-02-01 15:57:35,852 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-02-01 15:57:35,853 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2351 ms
+2021-02-01 15:57:35,933 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-02-01 15:57:36,224 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-02-01 15:57:36,239 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-02-01 15:57:36,476 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-02-01 15:57:36,552 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-02-01 15:57:36,772 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-02-01 15:57:36,954 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-02-01 15:57:38,016 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-02-01 15:57:38,029 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-02-01 15:57:38,503 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-02-01 15:57:38,670 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-01 15:57:39,030 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-01 15:57:39,078 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-02-01 15:57:39,108 INFO org.springframework.boot.StartupInfoLogger [main] Started FileUploadApplication in 6.482 seconds (JVM running for 8.741)
+2021-02-01 15:57:59,298 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-01 15:57:59,299 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-02-01 15:57:59,301 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2021-02-01 15:57:59,600 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-1] Entering CsvController.uploadFile
+2021-02-01 15:57:59,601 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-1] Entering CsvServiceImpl.saveFile
+2021-02-01 15:57:59,656 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 15:58:04,521 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Entering CsvHelper.csvToUsers
+2021-02-01 15:58:10,808 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Total Number of CSV Records = 1
+2021-02-01 15:58:10,824 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Processing CSV Record CSVRecord [comment='null', recordNumber=1, values=[23, sachinyahoo.com]]
+2021-02-01 15:58:10,911 ERROR com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Exception in CsvHelper.csvToUsers 
+java.lang.IllegalArgumentException: Index for header 'LastName' is 2 but CSVRecord only has 2 values!
+	at org.apache.commons.csv.CSVRecord.get(CSVRecord.java:129)
+	at org.apache.commons.csv.CSVRecord.get(CSVRecord.java:78)
+	at com.exostar.fileupload.util.CsvHelper.lambda$1(CsvHelper.java:49)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.stream.ReferencePipeline$11$1.accept(ReferencePipeline.java:442)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1654)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578)
+	at com.exostar.fileupload.util.CsvHelper.csvToUsers(CsvHelper.java:49)
+	at com.exostar.fileupload.service.CsvServiceImpl.saveFile(CsvServiceImpl.java:35)
+	at com.exostar.fileupload.controller.CsvController.uploadFile(CsvController.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-02-01 15:59:05,895 INFO com.exostar.fileupload.exception.handler.FileUploadExceptionHandler [http-nio-8080-exec-1] entering Global Exception Handler 
+2021-02-01 16:03:30,913 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2021-02-01 16:03:30,945 INFO org.springframework.boot.StartupInfoLogger [main] Starting FileUploadApplication using Java 11.0.2 on Alyx-Laptop with PID 16692 (D:\ExostarFileUploadSpringBootApp\FileUpload\target\classes started by AJoshi in D:\ExostarFileUploadSpringBootApp\FileUpload)
+2021-02-01 16:03:30,947 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.2, Spring v5.3.3
+2021-02-01 16:03:30,952 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-02-01 16:03:32,178 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-02-01 16:03:32,288 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 98 ms. Found 1 JPA repository interfaces.
+2021-02-01 16:03:33,176 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-02-01 16:03:33,190 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-02-01 16:03:33,191 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-02-01 16:03:33,192 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-02-01 16:03:33,409 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-02-01 16:03:33,409 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2318 ms
+2021-02-01 16:03:33,510 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2021-02-01 16:03:33,778 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2021-02-01 16:03:33,789 INFO org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration [main] H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-02-01 16:03:34,011 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-02-01 16:03:34,097 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.27.Final
+2021-02-01 16:03:34,285 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-02-01 16:03:34,476 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-02-01 16:03:35,565 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-02-01 16:03:35,576 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-02-01 16:03:36,271 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-02-01 16:03:36,461 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-01 16:03:36,778 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-02-01 16:03:36,818 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-02-01 16:03:36,845 INFO org.springframework.boot.StartupInfoLogger [main] Started FileUploadApplication in 6.624 seconds (JVM running for 9.584)
+2021-02-01 16:03:53,484 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-01 16:03:53,486 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-02-01 16:03:53,490 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 3 ms
+2021-02-01 16:03:53,703 DEBUG com.exostar.fileupload.controller.CsvController [http-nio-8080-exec-1] Entering CsvController.uploadFile
+2021-02-01 16:03:53,704 DEBUG com.exostar.fileupload.service.CsvServiceImpl [http-nio-8080-exec-1] Entering CsvServiceImpl.saveFile
+2021-02-01 16:03:53,798 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] CsvHelper.hasCSVFormat application/vnd.ms-excel
+2021-02-01 16:03:59,616 DEBUG com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Entering CsvHelper.csvToUsers
+2021-02-01 16:04:13,884 INFO com.exostar.fileupload.util.CsvHelper [http-nio-8080-exec-1] Total Number of CSV Records = 1
